@@ -31,6 +31,7 @@ export default {
 
 }
 .gift-body{
+   
     width: 90px;
     height: 60px;
     background-color: #5c7e32;
